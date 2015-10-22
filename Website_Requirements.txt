@@ -1,0 +1,10 @@
+The website must have professional elements similar to LinkedIn (resume info, professional picture, experiences).
+The website should be dynamic/interactive (JavaScript).
+The website should show my hobbies (personal time).
+The website should display some of my achievements.
+The website should have some way of organizing and tracking tasks (Trello, etc.).
+The website can divide major aspects into tab sections/webpages (major = programming, violin, math).
+The website should use HTML5, CSS, JavaScript and Bootstrap.
+If possible, have photospheres plugin.
+Have some soundtracks of pieces I have played.
+If time permits, add chess games.

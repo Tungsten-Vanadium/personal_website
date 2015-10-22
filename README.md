@@ -1,1 +1,1 @@
-# personal_website
+This is a project to create my personal website as a part of the ACM competition at my university. I plan on using the agile development process I learned in my Introduction to Software Engineering class.
